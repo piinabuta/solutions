@@ -58,7 +58,7 @@ def decision_making_system(data):
 
     return {"decision": "approve", "stop_factors": ""}
 
-# Тест-кейсы
+# Test cases
 
 # [1][SC_B] Triggers (score <= 400)
 input_data_1 = {
